@@ -12,6 +12,6 @@
 
 Виклик padString('hello', 8) поверне рядок hello***
 
-А виклик padString('hello', 6, '*', false) поверне рядок *hello,
+А виклик padString('hello', 6, '*', false) поверне рядок *hello
 
 Виклик padString('hello', 2) поверне 'he' - якщо число менше, ніж розмір введеного рядка, рядок потрібно обрізати за допомогою методу substr.
